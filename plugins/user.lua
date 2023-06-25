@@ -9,4 +9,10 @@ return {
       { "<leader>T", "<cmd>TodoTelescope<cr>", desc = "Open TODOs in Telescope" },
     },
   },
+  {
+    "echasnovski/mini.surround",
+    version = "*",
+    opts = {},
+    event = "User AstroFile",
+  },
 }
