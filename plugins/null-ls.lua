@@ -11,7 +11,10 @@ return {
       -- Set a formatter
       null_ls.builtins.formatting.stylua,
       null_ls.builtins.formatting.prettierd,
+      null_ls.builtins.formatting.phpcsfixer,
       null_ls.builtins.diagnostics.eslint_d,
+      null_ls.builtins.diagnostics.phpstan,
+      null_ls.builtins.diagnostics.phpcs,
       null_ls.builtins.code_actions.eslint_d,
     }
     return config -- return final config table
