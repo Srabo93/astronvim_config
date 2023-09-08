@@ -22,8 +22,6 @@ return {
         "php-cs-fixer",
         "prettierd",
         "eslint_d",
-        "phpstan",
-        "phpcs",
         "twigcs",
       })
     end,
