@@ -23,6 +23,7 @@ return {
         "prettierd",
         "eslint_d",
         "twigcs",
+        "sql-formatter",
       })
     end,
   },
