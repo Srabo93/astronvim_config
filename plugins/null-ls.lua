@@ -12,6 +12,7 @@ return {
       null_ls.builtins.formatting.stylua,
       null_ls.builtins.formatting.prettierd,
       null_ls.builtins.formatting.phpcsfixer,
+      null_ls.builtins.formatting.sqlformat,
       null_ls.builtins.diagnostics.twigcs,
       null_ls.builtins.diagnostics.eslint_d,
       null_ls.builtins.code_actions.eslint_d,

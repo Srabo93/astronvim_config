@@ -23,7 +23,6 @@ return {
         "prettierd",
         "eslint_d",
         "twigcs",
-        "sqlls",
       })
     end,
   },
