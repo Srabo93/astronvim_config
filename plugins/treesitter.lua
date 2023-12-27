@@ -27,6 +27,7 @@ return {
       "toml",
       "twig",
       "yaml",
+      "embedded_template",
     })
   end,
 }
