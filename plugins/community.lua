@@ -9,4 +9,5 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.php" },
+  { import = "astrocommunity.pack.prisma" },
 }
